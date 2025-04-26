@@ -1,6 +1,6 @@
 <!-- Profile Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Abrham" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=Welcome+This+is+Abreham,+Enjoy" />
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 <div align="center">
 
-🌟 I'm a dedicated **Software Engineering Student** with a passion for building real-world solutions  
-🔧 Skilled in full-stack web development, mobile apps, and system design  
-🌍 Eager to grow through open-source and impactful tech communities  
+🎯 I'm a passionate **Mobile App Developer** specializing in **Flutter**  
+💡 Skilled in building scalable frontend & backend systems  
+🌍 Constantly exploring modern tech and creating real-world solutions  
 
 </div>
 
@@ -26,9 +26,9 @@
 <div align="center">
 
 ### 👨‍💻 Languages  
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 ### 🌐 Web & Database  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -36,12 +36,11 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ### 📦 Frameworks & Tools  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
@@ -52,10 +51,10 @@
 
 <div align="center">
 
-🚀 Mastering JavaScript and Node.js  
-🔧 Building scalable cloud-based apps with Firebase  
-🧐 AI and machine learning in real-world systems  
-🌳 Projects that empower local communities  
+🚀 Advanced Flutter performance and animations  
+🛠 Backend optimization with Django  
+☁️ Firebase, GCP & AWS cloud services  
+🧠 Machine Learning integration in mobile apps  
 
 </div>
 
@@ -93,34 +92,35 @@
 
 <div align="center">
 
-🌎 [**Heal-zy Fitness**](https://github.com/abrhot/healzy-fitness)  
-📊 Personalized workout & nutrition system powered by Node.js & MongoDB  
+🚀 [**TruthLens**](https://github.com/abrhot/TruthLens)  
+🔍 A fake news detection platform powered by AI  
 
-📰 [**TruthLens**](https://github.com/abrhot/truthlens)  
-📈 Fake news detection engine using AI and Express.js backend  
-
-</div>
-
----
-
-## 🌟 Goals for 2025
-
-<div align="center">
-
-🚀 Launch at least 3 impactful community-centered projects  
-🎓 Deepen skills in cloud, machine learning, and systems architecture  
-🤝 Mentor junior developers and grow in leadership  
+🧘‍♂️ [**Heal-zy Fitness**](https://github.com/abrhot/Heal-zy)  
+💪 Personalized workout & nutrition planning system  
 
 </div>
 
 ---
 
-## 📨 Let's Connect
+## 🎯 Goals for 2025
 
 <div align="center">
 
-📧 Email: [abrhamtechbiz@gmail.com](mailto:abrhamtechbiz@gmail.com)  
-💬 Telegram: [@abrham_tech](https://t.me/abrham_tech)  
+✅ Master full-stack and mobile development  
+✅ Contribute to impactful open-source projects  
+✅ Launch a startup solving real-life problems  
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+📧 Email: [abrihott@gmail.com](mailto:abrihott@gmail.com)  
+💬 Telegram: [@bakosawi](https://t.me/bakosawi)  
+💼 LinkedIn: [Abrham Kifle](https://www.linkedin.com/in/abrham-kifle)  
 💻 GitHub: [abrhot](https://github.com/abrhot)  
 
 </div>
@@ -128,5 +128,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&width=435&lines=Thanks+for+visiting!+Happy+Coding!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFFF&width=435&lines=Thanks+for+visiting!+Happy+Coding!" />
 </p>
