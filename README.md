@@ -121,7 +121,7 @@
 📧 Email: [abrihott@gmail.com](mailto:abrihott@gmail.com)  
 💬 Telegram: [@bakosawi](https://t.me/bakosawi)  
 💼 LinkedIn: [Abrham Kifle](https://www.linkedin.com/in/abrham-kifle)  
-💻 GitHub: [abrhot](https://github.com/abrhot)  
+
 
 </div>
 
