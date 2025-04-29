@@ -126,7 +126,3 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFFF&width=435&lines=Thanks+for+visiting!" />
-</p>
