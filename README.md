@@ -13,9 +13,9 @@
 
 <div align="center">
 
-🎯 I'm a passionate **Mobile App Developer** specializing in **Flutter**  
-💡 Skilled in building scalable frontend & backend systems  
-🌍 Constantly exploring modern tech and creating real-world solutions  
+🎯 I'm a passionate Junior Fullstack Developer specializing in React & Next.js
+💡 Skilled in building scalable frontend & backend web applications
+🌍 Continuously exploring modern tech and turning ideas into real-world solutions
 
 </div>
 
