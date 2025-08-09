@@ -67,7 +67,6 @@
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abrhot&theme=radical&hide_border=true" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrhot&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
