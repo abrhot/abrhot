@@ -68,10 +68,9 @@
 
   <br/><br/>
 
-  <!-- GitHub Streak Stats (use stable domain) -->
-  <img src="https://github-readme-streak-stats.vercel.app?user=abrhot&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <!-- GitHub Streak Stats (working domain) -->
+  <img src="https://streak-stats.demolab.com?user=abrhot&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
-
 
 ---
 
