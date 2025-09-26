@@ -62,16 +62,12 @@
 
 ## 📊 GitHub Dashboard
 
-<div align="center"> 
-  <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrhot&theme=radical" alt="GitHub Profile Summary"/>
-
-  <br/><br/>
-
-  <!-- GitHub Streak Stats (working domain) -->
-  <img src="https://streak-stats.demolab.com?user=abrhot&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrhot&theme=radical" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abrhot&theme=radical&hide_border=true" />
+  <br/><br/>
 </div>
-
 ---
 
 ## 🏆 GitHub Achievements
